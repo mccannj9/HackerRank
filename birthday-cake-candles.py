@@ -2,6 +2,7 @@
 
 # https://www.hackerrank.com/challenges/birthday-cake-candles
 # Problem name ::: Birthday Cake Candles
+# Accepted
 
 
 def main():
