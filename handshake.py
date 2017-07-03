@@ -2,7 +2,7 @@
 
 # https://www.hackerrank.com/challenges/handshake
 # Problem name ::: Handshake
-
+# Accepted
 
 def main():
 
