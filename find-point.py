@@ -2,6 +2,7 @@
 
 # https://www.hackerrank.com/challenges/find-point
 # Problem name ::: Find the Point
+# Accepted
 
 
 def main():
