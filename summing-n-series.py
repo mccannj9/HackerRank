@@ -19,6 +19,7 @@ def main():
     # don't even need the first line of data
     data = [int(line.rstrip()) for line in sys.stdin.readlines()][1:]
     for val in data:
+    	# forgot to put the modulo here
         print(val**2 % ((10**9) + 7))
 
 if __name__ == '__main__':
